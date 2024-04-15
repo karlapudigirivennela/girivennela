@@ -1,4 +1,5 @@
-VIDEO LINK: https://drive.google.com/drive/u/2/home Programming task Instructions:
+VIDEO LINK: https://drive.google.com/drive/u/2/home 
+Programming task Instructions:
 Dataset Preparation: 
 • Select a time series dataset suitable for forecasting tasks (e.g., stock prices, weather data, energy consumption). • Preprocess the dataset, including normalization and splitting into training and test sets.
 Model Architecture: 
